@@ -13,9 +13,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: 'Eventual',
   description: 'Evnt is a dual platform for evendual management.',
-  icons: {
-    icon: '/assets/images/logo.svg'
-  }
+  // icons: {
+  //   icon: '/favicon.ico'
+  // }
 }
 
 export default function RootLayout({

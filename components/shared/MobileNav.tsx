@@ -28,7 +28,8 @@ import {
             <Image 
               src="/assets/images/logo.svg"
               alt="logo"
-              width={128}
+              // width={128}
+              width={60}
               height={38}
             />
             <Separator className="border border-gray-50" />
